@@ -1,4 +1,3 @@
-ÿþ&cls
 @echo off
 REM ============================================================
 REM  AUTO-RELANCE EN ARRIERE-PLAN (aucune fenetre visible)
